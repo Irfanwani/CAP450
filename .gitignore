@@ -1,0 +1,4 @@
+venv
+.v*
+.i*
+test.py
