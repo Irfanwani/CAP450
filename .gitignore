@@ -2,3 +2,4 @@ venv
 .v*
 .i*
 test.py
+.DS_Store
