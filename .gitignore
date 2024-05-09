@@ -3,4 +3,4 @@ venv
 .i*
 test.py
 .DS_Store
-*.zip
+*.tar.gz
